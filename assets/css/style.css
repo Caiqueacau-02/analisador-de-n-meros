@@ -1,0 +1,25 @@
+body{
+    background: rgb(138, 138, 229);
+}
+
+header{
+    text-align: center;
+    color: white;
+}
+
+section{
+    background: white;
+    width: 500px;
+    margin: 0 auto; /*centralizando div*/
+    border-radius:  5px;
+    padding: 1rem;
+}
+
+select{
+    width: 10rem;
+}
+
+footer{
+    text-align: center;
+    color: white;
+}
